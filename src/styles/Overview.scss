@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Inria+Serif&display=swap");
+#container {
+  min-height: 100vh;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+
+  #navibar {
+    height: auto;
+  }
+
+  .front-container {
+    min-height: 100vh;
+    height: 100%;
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+}
