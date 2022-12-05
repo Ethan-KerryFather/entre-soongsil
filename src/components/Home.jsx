@@ -24,6 +24,7 @@ export default function Home() {
           <div className="button-frame">
             <div className="front-button">
               <p
+                className="introduce"
                 onClick={() => {
                   goto("/Experience");
                 }}

@@ -5,12 +5,22 @@ import { useWindupString } from "windups";
 
 import "../styles/Experience.scss";
 export default function Experience() {
-  const [text] = useWindupString("Experience 기능이 추가될 예정입니다");
   return (
     <div id="container">
       <NaviBar id="navibar" />
       <div className="front-container">
-        <h1>{text}</h1>
+        <div
+          style={{ width: "100vw", height: "100vh", backgroundColor: "black" }}
+        >
+          <iframe
+            src="https://onedrive.live.com/embed?cid=A581D305D3D85C3C&resid=A581D305D3D85C3C%21264&authkey=AJPjXCceBC5Ao3k&em=2"
+            width="100%"
+            height="100%"
+            frameborder="0"
+            scrolling="no"
+            title="iframe"
+          ></iframe>
+        </div>
       </div>
       <Footer />
     </div>
