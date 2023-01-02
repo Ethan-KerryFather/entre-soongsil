@@ -1,4 +1,4 @@
-<h1>전지적 애주가 시점 - 프레젠테이션 웹 - 숭실대 교양 기업가정신과행동 (A0) </h1>
+<h1>전지적 애주가 시점 - 프레젠테이션 웹 - 숭실대 교양 기업가정신과행동 </h1>
 <pre>
   <h3>Soongsil Univ. Entre project [하루에 급히 제작]</h3>
 
@@ -24,3 +24,7 @@ React-router-dom
   <h4>구조 개선</h4><p>enhance architecture : {details}</p>
   </pre>
 
+<hr/>
+<h3>result</h3>
+<p>presentation: 1th(professor) 2nd(audience) - 1th(final)</p>
+<p>A0</p>
